@@ -1,0 +1,19 @@
+./sources/Controleur.java
+
+./sources/ihm/FrameAccueil.java
+./sources/ihm/FramePlateau.java
+
+./sources/ihm/PanelAccueil.java
+./sources/ihm/PanelPlateau.java
+./sources/ihm/PanelMenu.java
+
+./sources/metier/Puissance4.java
+./sources/metier/Joueur.java
+
+./sources/serialisation/DisquetteJeu.java
+./sources/serialisation/DonneesJeu.java
+./sources/serialisation/Jeu.java
+
+-d documentation
+-private
+-author
